@@ -1,6 +1,6 @@
 # Reto 12 Camilo Sanchez
 
-# PUNTO 1:  Consulte que hacen los siguientes métodos de strings en python: endswith, startswith, isalpha, isalnum, isdigit, isspace, istitle, islower, isupper.
+## PUNTO 1:  Consulte que hacen los siguientes métodos de strings en python: endswith, startswith, isalpha, isalnum, isdigit, isspace, istitle, islower, isupper.
 
 -  ## endswith()
    verifica si una cadena termina con una determinada subcadena. Devuelve True si la cadena termina con la subcadena, False en caso contrario.
@@ -53,7 +53,7 @@ if __name__ == "__main__":
       
 ````
 
-# PUNTO 3: Cantidad de consonantes
+## PUNTO 3: Cantidad de consonantes
 
 ````python
 def numConsonantes(x: str)->int: 
